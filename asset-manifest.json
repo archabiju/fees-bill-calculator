@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fees-bill-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/fees-bill-calculator/static/js/main.5d61792a.js",
+    "index.html": "/fees-bill-calculator/index.html",
+    "main.e6c13ad2.css.map": "/fees-bill-calculator/static/css/main.e6c13ad2.css.map",
+    "main.5d61792a.js.map": "/fees-bill-calculator/static/js/main.5d61792a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5d61792a.js"
+  ]
+}
