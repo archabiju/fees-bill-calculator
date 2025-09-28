@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://archabiju.github.io/fees-bill-calculator",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
